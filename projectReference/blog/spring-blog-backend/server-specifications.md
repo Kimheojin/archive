@@ -24,7 +24,13 @@
 
 ---
 
+
+
 ## misc
+
+### 원본
+
+
 
 ```bash
 jin@jin:~$ hostnamectl | grep -E "Operating System|Kernel|Architecture|Hardware"
@@ -34,8 +40,6 @@ Operating System: Ubuntu 24.04.3 LTS
  Hardware Vendor: Firebat_Computer
   Hardware Model: ZY-AK2PLUS
 jin@jin:~$ sudo dmidecode -t memory | grep -E "Size|Type|Speed|Manufacturer" | grep -v "No Module Installed"
-[sudo] password for jin: 
-Sorry, try again.
 [sudo] password for jin: 
         Error Correction Type: None
         Size: 16 GB
