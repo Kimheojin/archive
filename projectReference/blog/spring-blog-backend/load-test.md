@@ -293,4 +293,4 @@ ORDER BY priority ASC, category_name ASC;
 ## 기타 링크
 
 - [온프레미스 서버 스펙 정리](server-specifications.md)
-- [README 이동](../README.md) 
+- [README 이동](https://github.com/Kimheojin/spring-blog-backend/blob/main/README.md)
