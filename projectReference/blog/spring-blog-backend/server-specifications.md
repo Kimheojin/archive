@@ -26,10 +26,8 @@
 
 ## 기타 링크
 
-- [온프레미스 서버 스펙 정리](server-specifications.md)
+- [부하 테스트 관련](load-test.md)
 - [README 이동](https://github.com/Kimheojin/spring-blog-backend/blob/main/README.md)
-
-
 
 ---
 
