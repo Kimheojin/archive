@@ -1,6 +1,6 @@
 ## nginx exporter 지표 관련
 
-![nginx-1](../metricImage/nginx/nginx-1.png)
+![nginx-1](../metricImage/Nginx/Nginx-1.png)
 
 ## - 이 metric 지표 클라이언트 <> nginx 사이 
 
