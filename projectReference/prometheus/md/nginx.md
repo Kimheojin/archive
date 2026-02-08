@@ -2,11 +2,7 @@
 
 ![nginx-1](../metricImage/Nginx/Nginx-1.png)
 
-## - 이 metric 지표 클라이언트 <> nginx 사이 
-
----
-
-#### Processed connections (처리된 연결) 
+### Processed connections (처리된 연결) 
 
 - 이 지표 새로 연결된 TCP 사이 지표만 나오는 듯
   - 물리적 새 연결이 생성될때 만
@@ -21,7 +17,7 @@ NGINX가 클라이언트의 연결 요청을 어떻게 처리했는지 나타내
 
 ------
 
-#### Active Connections (활성 연결 상태)
+### Active Connections (활성 연결 상태)
 
 현재 NGINX가 유지하고 있는 연결의 실시간 상태를 세분화하여 나타냄
 
@@ -45,7 +41,7 @@ NGINX가 클라이언트의 연결 요청을 어떻게 처리했는지 나타내
 
 ------
 
-#### Total requests (총 요청 수)
+### Total requests (총 요청 수)
 
 서버가 가동된 이후 처리한 전체 HTTP 요청의 누적치 또는 단위 시간당 요청률을 나타냄
 
@@ -54,9 +50,8 @@ NGINX가 클라이언트의 연결 요청을 어떻게 처리했는지 나타내
 
 ------
 
-#### 상단 상태 바 (NGINX Status)
+### 상단 상태 바 (NGINX Status)
 
 - **Up (그린 바)**
   - DOWN 시 붉은 색
-
 
