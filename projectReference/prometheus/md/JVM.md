@@ -92,7 +92,7 @@ Miscellaneous - 내가 아는 그 Misc 맞음
   - **cpus**
     - 현재 시스템에 할당된 전체 CPU 코어 수
       - 이거 cgroup 값이랑 다르게 나옴
-      - 나중에 다시 할일 있으면 한번 더 보기
+      - *나중에 다시 할일 있으면 한번 더 보기*
     - `system-1m`이 이 수치보다 높으면 CPU 병목이 발생하고 있음을 의미.
 
 ------
@@ -184,10 +184,6 @@ Miscellaneous - 내가 아는 그 Misc 맞음
 
 
 ![JVM-5](../metricImage/JVM/JVM-5.png)
-
-
-
-
 
 
 
